@@ -3,6 +3,10 @@
 
 🖥️ Pursuing Bachelor's of Engineering in Computer Science and Engineering with an overall CGPA of 9.2.
 
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RC-Chavan&show_icons=true&theme=radical&hide=contribs,prs,issues)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RC-Chavan&layout=compact)](https://github.com/RC-Chavan/github-readme-stats)
 
 <!--
 **RC-Chavan/RC-Chavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
