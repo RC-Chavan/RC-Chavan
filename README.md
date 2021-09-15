@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Rohit Chavan
+
+
+🖥️ Pursuing Bachelor's of Engineering in Computer Science and Engineering with an overall CGPA of 9.2.
+
 
 <!--
 **RC-Chavan/RC-Chavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
